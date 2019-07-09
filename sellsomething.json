@@ -1,7 +1,7 @@
 [{
 	        "ID": "1",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 1",
-		"GRAPHICNAME": "XENON",
+		"GRAPHICNAME": "alienware.jpg",
 		"COST": "123.24",
 		"MSRP": "54.21",
 		"QTYONHAND": "2",
@@ -12,7 +12,7 @@
 	{
 		"ID": "2",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 2",
-		"GRAPHICNAME": "PEDATE",
+		"GRAPHICNAME": "alienware2.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -23,7 +23,7 @@
 	{
 		"ID": "3",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 3",
-		"GRAPHICNAME": "SEAT3",
+		"GRAPHICNAME": "alienware3.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -34,7 +34,7 @@
 	{
 		"ID": "4",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 4",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware4.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -45,7 +45,7 @@
 	{
 		"ID": "5",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 5",
-		"GRAPHICNAME": "MEAG",
+		"GRAPHICNAME": "alienware5.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -56,7 +56,7 @@
 	{
 		"ID": "6",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 6",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware6.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -67,7 +67,7 @@
 	{
 		"ID": "7",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 7",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware7.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -78,7 +78,7 @@
 	{
 		"ID": "8",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 8",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware8.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -89,7 +89,7 @@
 	{
 		"ID": "9",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 9",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware9.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -100,7 +100,7 @@
 	{
 		"ID": "10",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 10",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware10.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -111,7 +111,7 @@
 	{
 		"ID": "11",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 11",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware11.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -122,7 +122,7 @@
 	{
 		"ID": "12",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 12",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware12.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -133,7 +133,7 @@
 	{
 		"ID": "13",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 13",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware13.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -144,7 +144,7 @@
 	{
 		"ID": "14",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 14",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware14.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -155,7 +155,7 @@
 	{
 		"ID": "15",
 		"PRODUCTNAME": "DELL ALIENWARE XPS 15",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware15.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
