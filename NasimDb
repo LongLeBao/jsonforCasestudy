@@ -1,7 +1,7 @@
 [{
 	        "ID": "1",
 		"PRODUCTNAME": "Formaldehyde",
-		"GRAPHICNAME": "XENON",
+		"GRAPHICNAME": "alienware",
 		"COST": "123.24",
 		"MSRP": "54.21",
 		"QTYONHAND": "2",
@@ -12,7 +12,7 @@
 	{
 		"ID": "2",
 		"PRODUCTNAME": "Benzene",
-		"GRAPHICNAME": "PEDATE",
+		"GRAPHICNAME": "alienware2",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -23,7 +23,7 @@
 	{
 		"ID": "3",
 		"PRODUCTNAME": "Ethylene",
-		"GRAPHICNAME": "SEAT3",
+		"GRAPHICNAME": "alienware3",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -34,7 +34,7 @@
 	{
 		"ID": "4",
 		"PRODUCTNAME": "Acetic Acid",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware4",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -45,7 +45,7 @@
 	{
 		"ID": "5",
 		"PRODUCTNAME": "Carboxylic acid",
-		"GRAPHICNAME": "MEAG",
+		"GRAPHICNAME": "alienware5",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -56,7 +56,7 @@
 	{
 		"ID": "6",
 		"PRODUCTNAME": "Halogen",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware6",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -67,7 +67,7 @@
 	{
 		"ID": "7",
 		"PRODUCTNAME": "Alkene",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware7",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -78,7 +78,7 @@
 	{
 		"ID": "8",
 		"PRODUCTNAME": "Ether",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware8",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -89,7 +89,7 @@
 	{
 		"ID": "9",
 		"PRODUCTNAME": "Phosphate",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware9",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -100,7 +100,7 @@
 	{
 		"ID": "10",
 		"PRODUCTNAME": "Sodium Hydroxide",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware10",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -111,7 +111,7 @@
 	{
 		"ID": "11",
 		"PRODUCTNAME": "Hydrochloric acid",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware11",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -122,7 +122,7 @@
 	{
 		"ID": "12",
 		"PRODUCTNAME": "Nitrite",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware12",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -133,7 +133,7 @@
 	{
 		"ID": "13",
 		"PRODUCTNAME": "Sodium Carbonate",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware13",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -144,7 +144,7 @@
 	{
 		"ID": "14",
 		"PRODUCTNAME": "Alanine",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware14",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -155,7 +155,7 @@
 	{
 		"ID": "15",
 		"PRODUCTNAME": "Alginates",
-		"GRAPHICNAME": "KEAR",
+		"GRAPHICNAME": "alienware15",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
