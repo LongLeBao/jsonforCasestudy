@@ -1,7 +1,7 @@
 [{
 	        "ID": "1",
 		"PRODUCTNAME": "Formaldehyde",
-		"GRAPHICNAME": "alienware",
+		"GRAPHICNAME": "alienware.jpg",
 		"COST": "123.24",
 		"MSRP": "54.21",
 		"QTYONHAND": "2",
@@ -12,7 +12,7 @@
 	{
 		"ID": "2",
 		"PRODUCTNAME": "Benzene",
-		"GRAPHICNAME": "alienware2",
+		"GRAPHICNAME": "alienware2.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -23,7 +23,7 @@
 	{
 		"ID": "3",
 		"PRODUCTNAME": "Ethylene",
-		"GRAPHICNAME": "alienware3",
+		"GRAPHICNAME": "alienware3.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -34,7 +34,7 @@
 	{
 		"ID": "4",
 		"PRODUCTNAME": "Acetic Acid",
-		"GRAPHICNAME": "alienware4",
+		"GRAPHICNAME": "alienware4.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -45,7 +45,7 @@
 	{
 		"ID": "5",
 		"PRODUCTNAME": "Carboxylic acid",
-		"GRAPHICNAME": "alienware5",
+		"GRAPHICNAME": "alienware5.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -56,7 +56,7 @@
 	{
 		"ID": "6",
 		"PRODUCTNAME": "Halogen",
-		"GRAPHICNAME": "alienware6",
+		"GRAPHICNAME": "alienware6.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -67,7 +67,7 @@
 	{
 		"ID": "7",
 		"PRODUCTNAME": "Alkene",
-		"GRAPHICNAME": "alienware7",
+		"GRAPHICNAME": "alienware7.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -78,7 +78,7 @@
 	{
 		"ID": "8",
 		"PRODUCTNAME": "Ether",
-		"GRAPHICNAME": "alienware8",
+		"GRAPHICNAME": "alienware8.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -89,7 +89,7 @@
 	{
 		"ID": "9",
 		"PRODUCTNAME": "Phosphate",
-		"GRAPHICNAME": "alienware9",
+		"GRAPHICNAME": "alienware9.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -100,7 +100,7 @@
 	{
 		"ID": "10",
 		"PRODUCTNAME": "Sodium Hydroxide",
-		"GRAPHICNAME": "alienware10",
+		"GRAPHICNAME": "alienware10.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -111,7 +111,7 @@
 	{
 		"ID": "11",
 		"PRODUCTNAME": "Hydrochloric acid",
-		"GRAPHICNAME": "alienware11",
+		"GRAPHICNAME": "alienware11.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -122,7 +122,7 @@
 	{
 		"ID": "12",
 		"PRODUCTNAME": "Nitrite",
-		"GRAPHICNAME": "alienware12",
+		"GRAPHICNAME": "alienware12.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -133,7 +133,7 @@
 	{
 		"ID": "13",
 		"PRODUCTNAME": "Sodium Carbonate",
-		"GRAPHICNAME": "alienware13",
+		"GRAPHICNAME": "alienware13.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -144,7 +144,7 @@
 	{
 		"ID": "14",
 		"PRODUCTNAME": "Alanine",
-		"GRAPHICNAME": "alienware14",
+		"GRAPHICNAME": "alienware14.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
@@ -155,7 +155,7 @@
 	{
 		"ID": "15",
 		"PRODUCTNAME": "Alginates",
-		"GRAPHICNAME": "alienware15",
+		"GRAPHICNAME": "alienware15.jpg",
 		"COST": "42.34",
 		"MSRP": "63.52",
 		"QTYONHAND": "2",
